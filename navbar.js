@@ -69,10 +69,7 @@ function verifyLogin() {
     } else if (selected == 'WOMEN') {
       // add anchor here
       window.location.href = 'womens.html'
-    } else {
-      // add anchor here
-      window.location.href = 'Home&Living.html'
-    }
+    } 
   } else {
     alert('Please Login First')
     // add anchor here
